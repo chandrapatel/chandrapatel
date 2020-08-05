@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+My name is Chandra, I'm a Director of Engineering at [rtCamp](https://github.com/rtCamp/) and also lead their internal training program.
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chandrapatel&count_private=true&hide=stars&show_icons=true&theme=shades-of-purple)
+
 <!--
 **chandrapatel/chandrapatel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
