@@ -1,6 +1,11 @@
 ### Hi there 👋
 
-My name is Chandra, I'm a Director of Engineering at [rtCamp](https://github.com/rtCamp/) and also lead their internal training program.
+My name is Chandra, I fell in love with WordPress in 2014 while freelancing as a web developer. I have grown since then to become a Core contributor, Translation contributor for Gujarati language, and has contributed to WordPress Meta projects.
+
+Over the years, I have developed a love for learning, and hope to learn WordPress ever more “deeply”.
+
+- [WP.org Profile](https://profiles.wordpress.org/chandrapatel/)
+- [LinkedIn](https://www.linkedin.com/in/chandra287)
 
 <!--
 **chandrapatel/chandrapatel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
