@@ -4,6 +4,7 @@ My name is Chandra, I fell in love with WordPress in 2014 while freelancing as a
 
 Over the years, I have developed a love for learning, and hope to learn WordPress ever more “deeply”.
 
+- [https://chandra.dev](https://chandra.dev)
 - [https://chandrapatel.in](https://chandrapatel.in)
 - [WP.org Profile](https://profiles.wordpress.org/chandrapatel/)
 - [@chandrappatel](https://twitter.com/chandrappatel)
